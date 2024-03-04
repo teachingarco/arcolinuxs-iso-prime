@@ -356,7 +356,7 @@ mlocate
 oh-my-zsh-git
 p7zip
 #pkgfile
-#plank
+plank
 #playerctl
 polkit
 polkit-gnome
